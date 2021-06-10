@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YERIN&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=YERIN&fontSize=70&animation=twinkling&fontcolor=ffffff)
 
 
 [![Gmail Badge](https://img.shields.io/badge/kimy9985@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimy9985@gmail.com)](mailto:kimy9985@gmail.com)
